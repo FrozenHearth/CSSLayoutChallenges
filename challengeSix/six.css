@@ -1,0 +1,29 @@
+.div1 {
+  width: 100px;
+  height: 100px;
+  background-color: #3b3b3b;
+  color: white;
+  width: 75%;
+  height: 40%;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+}
+
+.div2,
+.div3 {
+  width: 15%;
+  height: 65%;
+  background-color: black;
+  position: absolute;
+}
+
+.div3 {
+  right: 0;
+  top: 0;
+}
+
+.div2 {
+  left: 0;
+  bottom: 0;
+}
