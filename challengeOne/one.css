@@ -1,0 +1,26 @@
+div {
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  color: white;
+  display: inline-block;
+  position: absolute;
+}
+
+.div1,
+.div2,
+.div3 {
+  top: 0;
+}
+
+.div1 {
+  left: 0;
+}
+
+.div2 {
+  right: 110px;
+}
+
+.div3 {
+  right: 0;
+}
