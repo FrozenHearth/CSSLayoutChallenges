@@ -1,0 +1,19 @@
+div {
+  width: 150px;
+  height: 150px;
+  color: white;
+}
+
+.div1 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: black;
+}
+
+.div2 {
+  background-color: #3b3b3b;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+}
